@@ -131,7 +131,7 @@ nav a:hover {
   top: 0px;
   left: 50%;
   transform: translateX(-50%);
-  color: #f7ca39;
+  color: black;
   font-size: 2rem;
 }
 
@@ -157,7 +157,7 @@ nav a:hover {
 .gallery h2 {
   font-size: 2rem;
   margin-bottom: 20px;
-  color: #f7ca39;
+  color: black;
 }
 
 .image-container {
