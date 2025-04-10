@@ -7,7 +7,7 @@
 }
 
 h1, h2 {
-  color: var(--heading-color);
+  color: black;
   font-family: 'Iansui', sans-serif;
   margin-bottom: 10px;
 }
